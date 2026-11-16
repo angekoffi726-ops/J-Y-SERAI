@@ -1,0 +1,6 @@
+{
+  "name": "J'Y SERAI — Largage des Amarres",
+  "description": "Générateur d'affiche officielle J'Y SERAI pour le Largage des Amarres des Scouts de la Région de San Pedro Les Navigateurs, du 27 au 29 novembre 2026 à Soubré.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
